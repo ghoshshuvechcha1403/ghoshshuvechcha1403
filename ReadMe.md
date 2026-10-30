@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e95c18f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/73097560/115834475-18698280-a448-11eb-9d9c-3b85d01e19ef.png">
+  <img alt="Banner" src="https://user-images.githubusercontent.com/73097560/115834475-18698280-a448-11eb-9d9c-3b85d01e19ef.png">
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently working on: Building full-stack web applications and machine learning pipelines.<br><br>👯 I’m looking to collaborate on: Open-source AI projects and innovative software development initiatives.<br><br>🤝 I’m looking for help with: Advanced distributed systems architecture and deep learning research.<br><br>🌱 I’m currently learning: Advanced cloud infrastructure, Kubernetes orchestration, and cutting-edge ML workflows.<br><br>💬 Ask me about: Full-stack development, machine learning, data analytics, and software engineering.<br><br>⚡ Fun fact: I balance my technical pursuits with portrait sketching and traditional art styles!
 
